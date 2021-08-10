@@ -1,0 +1,13 @@
+body{
+    display: grid;
+	grid-template-columns:1fr 5fr;
+}
+
+.table{
+    display: grid;
+    grid-template-columns:1fr 1fr;
+}
+
+.td_content_top{
+    vertical-align:top
+}

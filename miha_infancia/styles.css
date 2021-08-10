@@ -1,0 +1,27 @@
+.content-div{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	padding: 1rem;
+}
+
+.center{
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+}
+
+body{
+	display: inline-grid;
+	grid-template-columns: auto auto auto;
+}
+
+.image_portrait{
+	width:185px;
+	height:285px;
+}
+
+.image_horizon{
+	width: 259;
+	height: 194;
+}
