@@ -42,7 +42,6 @@ a{
     border-radius: 15px;
     font-family: lato,sans-serif;
     font-size: large;
-    background-color: #ffba49;
 }
 
 .prepare_method{
@@ -56,16 +55,12 @@ ol li{
     padding: 5px;
 }
 
-.home{
-    width: 30px;
-}
-
 .nav-bar{
     padding-top: 1px;
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
-    background-color: #fff;
+    background-color: #828a7d;
     width: 100%;
 }
 

@@ -7,24 +7,10 @@ a{
     color: #000;
 }
 
-img{
-    border-radius: 100%;
-    padding-top: 5px;
-}
-
 .content{
-    display: grid;
-	grid-template-columns:2fr 5fr;
-    margin-top: 10px;
-}
-
-.table{
-    display: grid;
-    grid-template-columns:1fr 1fr;
-}
-
-.td_content_top{
-    vertical-align:top
+    display: grid; 
+    grid-template-columns: auto auto auto auto; 
+    background-color: #2ff7f4;
 }
 
 .nav-bar{
@@ -40,10 +26,4 @@ img{
     display: flex; 
     flex-direction: row; 
     justify-content: center;
-}
-
-.profile{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
 }
